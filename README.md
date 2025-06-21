@@ -1,5 +1,9 @@
 # Introdução a linguagem C++ - Aulas de Estrutura de Dados
 
+<p align="center">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/ISO_C%2B%2B_Logo.svg/1822px-ISO_C%2B%2B_Logo.svg.png" style="width: 150px"  />
+</p>
+
 ## Introdução
 <p>Neste repositório irei deixar os programas que fiz durante o semestre que tive a matéria Estrutura de Dados. Durante essas aulas aprendi a linguagem C++ que era uma linguagem que tinha já interesse. Algumas aulas estão faltando, pois são aulas de revisão ou aulas que teve alguma prova.</p>
 
